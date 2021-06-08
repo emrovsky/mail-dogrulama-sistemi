@@ -1,0 +1,2 @@
+mail adresinizi girin
+mail adresinizin şifresini girin
